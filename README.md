@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevakaslayer&label=Profile%20views&color=0e75b6&style=flat" alt="kevakaslayer" /> </p>
 
-- 🔭 I’m currently working on **Food Fanatic a backend focus mvt based project**
+- 🔭 I’m currently working on **ArtGallery**
 
-- 🌱 I’m currently learning **DRF , frontend technologies like react**
+- 🌱 I’m currently learning **ML AND DATA SCIENCE**
 
 - 📫 How to reach me **whtdahellizdis@gmail.com**
 
