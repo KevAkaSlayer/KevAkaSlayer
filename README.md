@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://38.media.tumblr.com/bd25a2ede5e55f8c58a394d26b662ec7/tumblr_nc1yiwW5Eq1qe3uqro1_1280.gif)
+![I am GitHub Readme Generator's creator](https://qph.cf2.quoracdn.net/main-qimg-43950221111029577aa210b721c9d2c8)
 <h1 align="center">Hi 👋, I'm Aminul Islam</h1>
 <h3 align="center">Junior Backend Developer and a competitive programmer always willing to learn new stuff and adapt.</h3>
 
