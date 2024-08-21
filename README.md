@@ -1,12 +1,12 @@
 ![I am GitHub Readme Generator's creator](https://qph.cf2.quoracdn.net/main-qimg-43950221111029577aa210b721c9d2c8)
 <h1 align="center">Hi 👋, I'm Aminul Islam</h1>
-<h3 align="center">Junior Backend Developer and a competitive programmer always willing to learn new stuff and adapt.</h3>
+<h3 align="center">Junior Backend Developer and a competitive programmer, always willing to learn new stuff and adapt.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevakaslayer&label=Profile%20views&color=0e75b6&style=flat" alt="kevakaslayer" /> </p>
 
 - 🔭 I’m currently working on **ArtGallery**
 
-- 🌱 I’m currently learning **ML AND DATA SCIENCE**
+- 🌱 I’m currently learning **FrontEnd Development**
 
 - 📫 How to reach me **whtdahellizdis@gmail.com**
 
